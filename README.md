@@ -1,2 +1,2 @@
-# koppikode-resolusi
-Repository untuk menyimpan code ke depannya
+# simple-code-python
+Simple Code Python
